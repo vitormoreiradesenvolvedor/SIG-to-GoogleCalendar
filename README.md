@@ -2,7 +2,7 @@
 
 ## Um script em Python para pegar os horários de aula do SIG e converter para um arquivo `.csv` para ser usado no Google Agenda
 
-[English Documentation](https://github.com/vitormoreiradesenvolvedor/SIG-to-GoogleCalendar/tree/master/docs/englishDoc.md)
+[English Documentation](https://github.com/vitormoreiradesenvolvedor/SIG-to-GoogleCalendar/blob/master/docs/englishDoc.md)
 
 ### Pré-requisitos
 
